@@ -20,4 +20,4 @@ CANDY GUARD Reference: https://github.com/metaplex-foundation/mpl-candy-guard
 4. Add candy machine ID to ENV
 5. TEST IT OUT! :D
 
-6. For verification, Keypair require
+6. For verification, update ENV file with owner base58 secret
