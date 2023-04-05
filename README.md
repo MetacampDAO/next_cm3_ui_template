@@ -2,7 +2,12 @@ NEXT TEMPLATE
 
 CANDY GUARD Reference: https://github.com/metaplex-foundation/mpl-candy-guard
 
-1. Create CandyMachine with Sugar
+1. How to
+   1. git clone https://github.com/MetacampDAO/next_cm3_ui_template
+   2. yarn install
+   3. yarn dev => to run code
+
+2. Create CandyMachine with Sugar
    1. sugar create config
    2. sugar upload
    3. sugar deploy
@@ -10,7 +15,7 @@ CANDY GUARD Reference: https://github.com/metaplex-foundation/mpl-candy-guard
    5. sugar mint
    6. add guard
    7. sugar guard add
-2. Add candy machine ID to ENV
-3. TEST IT OUT! :D
+3. Add candy machine ID to ENV
+4. TEST IT OUT! :D
 
-4. For verification, Keypair require
+5. For verification, Keypair require
