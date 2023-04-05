@@ -8,7 +8,7 @@ CANDY GUARD Reference: https://github.com/metaplex-foundation/mpl-candy-guard
    3. yarn dev => to run code
 
 2. Create CandyMachine with Sugar
-   1. sugar create config
+   1. sugar config create
    2. sugar upload
    3. sugar deploy
    4. sugar verify
