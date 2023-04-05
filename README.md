@@ -13,9 +13,11 @@ CANDY GUARD Reference: https://github.com/metaplex-foundation/mpl-candy-guard
    3. sugar deploy
    4. sugar verify
    5. sugar mint
-   6. add guard
-   7. sugar guard add
-3. Add candy machine ID to ENV
-4. TEST IT OUT! :D
+3. setup sugar guard
+   1. reference: https://docs.metaplex.com/developer-tools/sugar/guides/sugar-for-cmv3
+   2. add guard into config file
+   3. sugar guard add
+4. Add candy machine ID to ENV
+5. TEST IT OUT! :D
 
-5. For verification, Keypair require
+6. For verification, Keypair require
